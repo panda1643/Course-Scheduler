@@ -11,3 +11,5 @@ Student Functions :
 - Getting waitlisted for courses with timestamps to maintain a queue
 - Auto add after getting waitlisted if someone drops the course
 - Doing so over multiple semesters
+
+Note - For Code files, go to CourseScheduler > src
